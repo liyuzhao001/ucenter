@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ucenter.iml" filepath="$PROJECT_DIR$/ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucenter-dao/ucenter-dao.iml" filepath="$PROJECT_DIR$/ucenter-dao/ucenter-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucenter-entity/ucenter-entity.iml" filepath="$PROJECT_DIR$/ucenter-entity/ucenter-entity.iml" />
+    </modules>
+  </component>
+</project>
