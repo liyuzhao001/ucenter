@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ucenter-service:war exploded">
+    <output-path>$PROJECT_DIR$/ucenter-service/target/ucenter-service</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ucenter-service" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="ucenter-dao-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="ucenter-dao" />
+          </element>
+          <element id="archive" name="ucenter-entity-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="ucenter-entity" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ucenter-service/target/ucenter-service/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ucenter-service/web/Web" />
+    </root>
+  </artifact>
+</component>

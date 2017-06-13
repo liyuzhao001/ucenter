@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ucenter-service:war">
+    <output-path>$PROJECT_DIR$/ucenter-service/target</output-path>
+    <root id="archive" name="ucenter-service.war">
+      <element id="artifact" artifact-name="ucenter-service:war exploded" />
+    </root>
+  </artifact>
+</component>

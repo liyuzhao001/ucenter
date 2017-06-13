@@ -11,8 +11,8 @@
     <modules>
         <module>ucenter-dao</module>
         <module>ucenter-entity</module>
+        <module>ucenter-service</module>
     </modules>
-
     <dependencyManagement>
         <dependencies>
             <dependency>

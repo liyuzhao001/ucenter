@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ucenter-dao" />
         <module name="ucenter-entity" />
+        <module name="ucenter-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ucenter" target="1.8" />
       <module name="ucenter-dao" target="1.8" />
       <module name="ucenter-entity" target="1.8" />
+      <module name="ucenter-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ucenter.iml" filepath="$PROJECT_DIR$/ucenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucenter-dao/ucenter-dao.iml" filepath="$PROJECT_DIR$/ucenter-dao/ucenter-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucenter-entity/ucenter-entity.iml" filepath="$PROJECT_DIR$/ucenter-entity/ucenter-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucenter-service/ucenter-service.iml" filepath="$PROJECT_DIR$/ucenter-service/ucenter-service.iml" />
     </modules>
   </component>
 </project>
